@@ -1,0 +1,6 @@
+Implementation of RSA encryption according to the algorithm
+
+-------------------------------------------------------------------------------------------------------
+Compile: 
+g++ -o rsa -O3
+
